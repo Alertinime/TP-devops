@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Green Tea",
+        "description": "Brew at 80C for 2-3 minutes. Known for its fresh and grassy flavor. Helps with relaxation and contains antioxidants."
+    },
+    {
+        "id": 2,
+        "name": "Earl Grey",
+        "description": "Brew at 90C for 3-5 minutes. A black tea with bergamot flavor, known for its citrus aroma. May improve focus and digestion."
+    },
+    {
+        "id": 3,
+        "name": "Chamomile",
+        "description": "Brew at 95C for 5 minutes. A caffeine-free herbal tea, often used for calming nerves and aiding sleep."
+    },
+    {
+        "id": 4,
+        "name": "Oolong Tea",
+        "description": "Brew at 85C for 3-4 minutes. A semi-oxidized tea with a complex flavor, ranging from floral to toasty. May boost metabolism."
+    },
+    {
+        "id": 5,
+        "name": "Peppermint Tea",
+        "description": "Brew at 95C for 5-6 minutes. A caffeine-free herbal tea with a refreshing mint flavor, helps with digestion and relieves headaches."
+    }
+]
